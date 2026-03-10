@@ -1,9 +1,4 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F2027,50:203A43,100:2C5364&text=Wyatt%20King&fontSize=45&fontColor=ffffff&animation=twinkling&desc=Software%20Engineering%20%40%20UNCW%20%7C%20Cloud%20%7C%20Systems%20Engineering&descSize=18&descAlignY=65"/>
-# Wyatt King
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Wyattk2120&show_icons=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Wyattk2120&layout=compact&theme=github_dark)
 
 Software Engineering student at the **University of North Carolina Wilmington (UNCW)**.
 
