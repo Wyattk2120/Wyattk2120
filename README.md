@@ -51,8 +51,10 @@ Implemented primarily using **Java and Python**.
 # Currently Learning
 
 Cloud computing and distributed systems  
-Backend API development  
 System design and scalable architectures
+Authentication and authorization patterns  
+Relational database design and migrations  
+REST API design with NestJS 
 
 ---
 
