@@ -2,7 +2,7 @@
 
 Software Engineering student at the **University of North Carolina Wilmington**, graduating December 2026.
 
-I build systems where software meets real-world hardware — distributed sensing, IoT device control, and the backends that make them useful. Most of my work lately has been full-stack TypeScript against Postgres, with a side of Linux and storage administration.
+I build systems where software meets real-world hardware distributed sensing, IoT device control, and the backends that make them useful. Most of my work lately has been full-stack TypeScript against Postgres, with a side of Linux and storage administration.
 
 ---
 
