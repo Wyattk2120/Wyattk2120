@@ -60,7 +60,7 @@ REST API design with NestJS
 
 # Connect With Me
 
-LinkedIn: https://www.linkedin.com/in/wyatt-king-b3bb542b2/
+LinkedIn: (https://linkedin.com/in/king-wyatt)
 
 ---
 
